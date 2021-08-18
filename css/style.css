@@ -17,7 +17,8 @@ html {
 }
 
 .main-container{
-    display: flex;
+    display: inline-flex;
+    flex-direction: row;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -30,17 +31,19 @@ html {
     background-color: hsl(31, 77%, 52%);
 }
 
-
-
 .suv-container{
     background-color:hsl(184, 100%, 22%);
 }
-
 
 .luxury-container {
     background-color: hsl(179, 100%, 13%);
 }
 
+/* .sedan-container,
+.suv-container,
+.luxury-container {
+    display: flex;
+} */
 
 .content-container {
     display: flex;
@@ -86,4 +89,23 @@ p {
 
 .luxury-btn {
     color: hsl(179, 100%, 13%);
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%);
+}
+
+@media (max-width: 375px) {
+    .main-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content-container {
+        width: 300px;
+    }
+
 }
