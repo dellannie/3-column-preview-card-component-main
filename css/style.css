@@ -39,12 +39,6 @@ html {
     background-color: hsl(179, 100%, 13%);
 }
 
-/* .sedan-container,
-.suv-container,
-.luxury-container {
-    display: flex;
-} */
-
 .content-container {
     display: flex;
     flex-direction: column;
