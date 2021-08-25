@@ -40,7 +40,7 @@ My process behind this challenge was to start by figuring out how to control eac
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [LinkedIn](https://www.linkedin.com/in/corey-rodney/)
 - Frontend Mentor - [@dellannie](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@whatzupcorey](https://www.twitter.com/whatzupcorey)
 
