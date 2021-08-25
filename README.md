@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dellannie/3-column-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://dellannie.github.io/3-column-preview-card-component-main/)
+- Solution URL: [Solution Repository](https://github.com/dellannie/3-column-preview-card-component-main.git)
+- Live Site URL: [Solution Website](https://dellannie.github.io/3-column-preview-card-component-main/)
 
 ## My process
 My process behind this challenge was to start by figuring out how to control each box on its own without doing too much to make the challenge complicated. I choose to use flexbox and put the three main box inside of a container to and work on each box seperate from the other. In the end I group some of the elemts together to use less CSS code instead of having all the CSS seperate for each box.
